@@ -1,5 +1,5 @@
 # Olá, me chamo Hugo, mas o pessoal que me conhece me chama de Hyugo! 
-## Bem vindo ao meu perfil GitHub ![Hyugo_Oi@112](https://github.com/HugoReboucas/HugoReboucas/assets/17494143/cdc88248-bd31-4131-b90c-cd04c7915e70)
+## Bem vindo ao meu perfil GitHub
 
 Hoje eu estudo na Alura programação, mas sou formado em jogos digitais e busco me aprimorar para tentar entrar na área.
 
@@ -26,7 +26,7 @@ Por enquanto não estou trabalhando, mas busco oportunidades para aprender e me 
 <a href="https://www.linkedin.com/in/hugo-reboucas/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>  
 
-## Status Starter ![Hyugo_Love@112](https://github.com/HugoReboucas/HugoReboucas/assets/17494143/5f75430f-b61b-4e06-acb1-c304646ac5f7)
+## Status Starter ![Hyugo_Oi@112](https://github.com/HugoReboucas/HugoReboucas/assets/17494143/cdc88248-bd31-4131-b90c-cd04c7915e70)
 <div>
 <a href="https://github.com/HugoReboucas">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoReboucas&layout=compact&langs_count=7&theme=dracula"/>
